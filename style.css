@@ -1,0 +1,31 @@
+body{
+   background-image: url(https://s3.cloud.cmctelecom.vn/tinhte1/2013/01/3277825_dotted_texture-wallpaper-1920x1080.jpg);
+}
+.swapper{
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+}
+.swapper .Logo{
+    margin: 50px;
+}
+.swapper .Logo img{
+   width: 100px;
+   height: 100px;
+   object-fit: cover;
+}
+.session_1 .Logo img{
+    width: 200px;
+    height: 200px;
+}
+.session_1 h1{
+    font-size: 50px;
+    font-family: cursive;
+    color: powderblue;
+}
+.detail_session_1{
+    color: darkturquoise;
+    font-size: 30px;
+    font-family: cursive;
+}
